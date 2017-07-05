@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BT Remote</string>
+
+    <string name="enter_text_to_send">Enter text to send</string>
+    <string name="send">SEND</string>
+    <string name="get_ip">GET IP</string>
+    <string name="init">preview0</string>
+    <string name="startQL">preview1</string>
+    <string name="killQL">NULL</string>
+</resources>
